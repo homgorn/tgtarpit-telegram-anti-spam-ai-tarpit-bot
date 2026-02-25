@@ -1,21 +1,71 @@
-MIT License
+Copyright (c) 2025 TgTarpit Project. All Rights Reserved.
 
-Copyright (c) 2026 homgorn
+PROPRIETARY AND CONFIDENTIAL
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and all associated documentation, source code, object code,
+and any other materials (collectively, the "Software") are the exclusive
+property of the TgTarpit Project and are protected by copyright laws,
+international treaty provisions, and other applicable intellectual property
+laws and regulations worldwide, including but not limited to:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+  - The Berne Convention for the Protection of Literary and Artistic Works
+  - The Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)
+  - The WIPO Copyright Treaty (WCT)
+  - National copyright laws of all member states
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+ALL RIGHTS RESERVED. NO PART OF THIS SOFTWARE MAY BE:
+
+  - Reproduced, copied, or duplicated in any form or by any means
+  - Distributed, transmitted, or made available to third parties
+  - Modified, adapted, translated, or used to create derivative works
+  - Sublicensed, sold, rented, leased, or otherwise transferred
+  - Used for commercial purposes without prior written authorization
+  - Reverse engineered, decompiled, or disassembled
+
+PERMITTED USE:
+
+Permission is hereby granted to:
+  1. View and study the source code for personal, educational purposes only
+  2. Fork this repository for personal, non-commercial experimentation
+  3. Submit pull requests and contributions (see CONTRIBUTING section below)
+
+Any permitted use does NOT grant ownership rights or any license to use
+the Software in production, commercially, or as part of another product
+without explicit written permission from the copyright holder.
+
+CONTRIBUTIONS:
+
+By submitting any contribution (pull request, issue, suggestion) to this
+repository, you agree that:
+  1. Your contribution becomes the property of the TgTarpit Project
+  2. You grant a perpetual, irrevocable, worldwide license to use your
+     contribution as part of this Software
+  3. You represent that you have the right to make such contribution
+
+DISCLAIMER OF WARRANTIES:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+LIMITATION OF LIABILITY:
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+LEGAL USE ONLY:
+
+This Software is designed for legitimate defensive purposes only — protecting
+individuals from unsolicited automated spam messages. Users are solely
+responsible for ensuring their use of this Software complies with all
+applicable local, national, and international laws, including but not limited
+to laws governing electronic communications, data protection (GDPR, Federal
+Law No. 152-FZ), and computer fraud.
+
+For licensing inquiries: create an issue in the GitHub repository.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+© 2025 TgTarpit Project. Все права защищены. All Rights Reserved Worldwide.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
